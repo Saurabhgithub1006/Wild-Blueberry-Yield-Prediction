@@ -1,11 +1,34 @@
 # <span style="color: blue;">Wild Blueberry Yield Prediction</span>
 
- <div style="background: url('https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/download.jpeg?raw=true'); padding: 20px; border-radius: 10px; background-size: cover; color: white;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wild Blueberry Yield Prediction</title>
+  <style>
+    body {
+      background: url('https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/download.jpeg?raw=true') no-repeat center center fixed;
+      background-size: cover;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+    .content {
+      padding: 20px;
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <h1>Wild Blueberry Yield Prediction</h1>
+    <p>This project uses machine learning to predict wild blueberry yields based on various environmental and botanical features.</p>
+  </div>
+</body>
+</html>
 
-  <h2>About the Project</h2>
-  <p>This project aims to predict wild blueberry yields using various data analysis techniques.</p>
-
-</div>
  
 ![Image](https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/AppVideo-ezgif.com-video-to-gif-converter.gif?raw=true)
 
