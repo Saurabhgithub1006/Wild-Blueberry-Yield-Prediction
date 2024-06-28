@@ -2,7 +2,7 @@
 
 -[Streamlit app link](https://wild-blueberry-yield-prediction-bmjmre38bgfuvhkkn8ccbs.streamlit.app/)
 
-![Image]( Screenshot (302).jpg)
+![Image](https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/Screenshot%20(302).png?raw=true.jpg)
 
 
 ## About Dataset:
