@@ -1,6 +1,6 @@
 # <span style="color: blue;">Wild Blueberry Yield Prediction</span>
 
-<div style="background: url('https://github.com/username/repo/blob/main/images/background.jpg?raw=true'); padding: 20px; border-radius: 10px;">
+<div style="background: url('https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/download.jpeg?raw=true'); padding: 20px; border-radius: 10px;">
   <h2 style="color: white;">Project Title</h2>
   <p style="color: white;">This is an example of using a background image.</p>
 </div>
