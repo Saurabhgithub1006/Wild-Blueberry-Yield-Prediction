@@ -1,4 +1,4 @@
-# <span style="color: blue;">Overview</span>
+# <span style="color: blue;">Wild Blueberry Yield Prediction</span>
 
 
 -[Streamlit app link](https://wild-blueberry-yield-prediction-bmjmre38bgfuvhkkn8ccbs.streamlit.app/)
