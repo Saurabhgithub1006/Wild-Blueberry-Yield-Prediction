@@ -9,7 +9,7 @@ The simulation model has been validated by the field observation and experimenta
 
 ## Problem Statement:
 The target feature is yield which is a continuous variable. The task is to classify this variable based on the other 17 features step-by-step by going through each day's task. The evaluation metrics will be RMSE score.
-![Alt Text](https://example.com/image.jpg)
+![Image]( https://img.freepik.com/free-vector/fresh-blueberries-with-water-drops-green-leaves-white-background-realistic-vector-illustration_1284-77363.jpg)
 
 
 
