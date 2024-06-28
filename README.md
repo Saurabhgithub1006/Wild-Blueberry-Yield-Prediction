@@ -1,4 +1,4 @@
-# <span style="color: orange; font-size: 28px; background-color: yellow; padding: 5px;">Styled Headline</span>
+# <span style="color: navy; font-size: 26px; font-weight: bold; background-color: lightgray; padding: 10px; border-radius: 5px;">Navy Bold Headline with Background</span>
 
 
 -[Streamlit app link](https://wild-blueberry-yield-prediction-bmjmre38bgfuvhkkn8ccbs.streamlit.app/)
