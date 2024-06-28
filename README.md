@@ -2,7 +2,7 @@
 
 -[Streamlit app link](https://wild-blueberry-yield-prediction-bmjmre38bgfuvhkkn8ccbs.streamlit.app/)
 
-![Image]( https://img.freepik.com/free-vector/fresh-blueberries-with-water-drops-green-leaves-white-background-realistic-vector-illustration_1284-77363.jpg)
+![Image]( Screenshot (302).png)
 
 
 ## About Dataset:
