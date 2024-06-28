@@ -1,6 +1,6 @@
 # <span style="color: blue;">Wild Blueberry Yield Prediction</span>
 
- 
+ [Wild Blueberry streamlit app link](https://wild-blueberry-yield-prediction-bmjmre38bgfuvhkkn8ccbs.streamlit.app/)
 
  
 ![Image](https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/AppVideo-ezgif.com-video-to-gif-converter.gif?raw=true)
