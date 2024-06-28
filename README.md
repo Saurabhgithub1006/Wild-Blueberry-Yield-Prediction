@@ -1,11 +1,11 @@
 # <span style="color: blue;">Wild Blueberry Yield Prediction</span>
 
-<div style="background: url('https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/download.jpeg?raw=true'); padding: 20px; border-radius: 10px;">
-  <h2 style="color: white;">Project Title</h2>
-  <p style="color: white;">This is an example of using a background image.</p>
-</div>
--[Wild Blueberry Yield Prediction Streamlit app link](https://wild-blueberry-yield-prediction-bmjmre38bgfuvhkkn8ccbs.streamlit.app/)
+ <div style="background: url('https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/download.jpeg?raw=true'); padding: 20px; border-radius: 10px; background-size: cover; color: white;">
 
+  <h2>About the Project</h2>
+  <p>This project aims to predict wild blueberry yields using various data analysis techniques.</p>
+
+</div>
  
 ![Image](https://github.com/Saurabhgithub1006/Wild-Blueberry-Yield-Prediction/blob/main/AppVideo-ezgif.com-video-to-gif-converter.gif?raw=true)
 
