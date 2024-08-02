@@ -36,7 +36,7 @@ This project aims to predict the yield of wild blueberries using data generated 
   + Used SelectKBest for feature selection to identify the most impactful variables for yield prediction.
 * Model Development:
 
-Built and tuned several machine learning models, including:
+  Built and tuned several machine learning models, including:
   + Linear Regression
   + Random Forest
   + Decision Tree
