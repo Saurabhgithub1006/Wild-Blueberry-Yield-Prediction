@@ -44,18 +44,18 @@ This project aims to predict the yield of wild blueberries using data generated 
 * Model Development:
 
 Built and tuned several machine learning models, including:
- + Linear Regression
- + Random Forest
- + Decision Tree
- + Gradient Boosting
+  + Linear Regression
+  + Random Forest
+  + Decision Tree
+  + Gradient Boosting
 * Evaluation:
- + Evaluated model performance using cross-validation and testing on holdout datasets.
- + Optimized the model by tuning hyperparameters and validating on unseen data to prevent overfitting.
+  + Evaluated model performance using cross-validation and testing on holdout datasets.
+  + Optimized the model by tuning hyperparameters and validating on unseen data to prevent overfitting.
 # Results
 * Best Model: Random Forest
 * Performance Metrics:
- + RMSE: 10
- + R-squared: 0.80
+  + RMSE: 10
+  + R-squared: 0.80
 # Deployment
 * Platform: Streamlit
 * Functionality: Developed an interactive web application to visualize and predict wild blueberry yields.
