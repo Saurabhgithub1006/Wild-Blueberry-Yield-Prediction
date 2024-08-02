@@ -34,7 +34,6 @@ This project aims to predict the yield of wild blueberries using data generated 
 
 # Approach
 * Data Preprocessing:
-
  + Handled missing values.
  + Normalized features.
  + Created new variables to improve model performance.
