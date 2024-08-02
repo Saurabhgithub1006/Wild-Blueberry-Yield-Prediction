@@ -23,9 +23,9 @@ This project aims to predict the yield of wild blueberries using data generated 
 # Dataset
 * Source: Wild Blueberry Pollination Simulation Model
 * Description:
-Open-source, spatially-explicit computer simulation program.
-Validated by field observation and experimental data collected over the last 30 years in Maine, USA, and the Canadian Maritimes.
-Useful for hypothesis testing and theory development in wild blueberry pollination research.
+1. Open-source, spatially-explicit computer simulation program.
+2. Validated by field observation and experimental data collected over the last 30 years in Maine, USA, and the Canadian Maritimes.
+3. Useful for hypothesis testing and theory development in wild blueberry pollination research.
 * Features: 17 features
 * Instances: Simulated data for various environmental and soil conditions
 * Target Feature: Yield (continuous variable)
