@@ -34,9 +34,9 @@ This project aims to predict the yield of wild blueberries using data generated 
 
 # Approach
 * Data Preprocessing:
- + Handled missing values.
- + Normalized features.
- + Created new variables to improve model performance.
+  + Handled missing values.
+  + Normalized features.
+  + Created new variables to improve model performance.
 * Feature Engineering:
 
 Engineered features such as average temperature during the growing season and rainfall patterns.
